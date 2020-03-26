@@ -24809,7 +24809,7 @@ L:function(a){var t="COVID19 Statistics",s=null,r=X.YQ(s,"Poppins",C.n,C.nc),q=L
 p=H.b([new T.dI(C.bp,new D.xM(new F.Jv(),s,s,s,s,s,C.n,s,s,s,s,s,0,s,s,s,s,s,L.dO("View Source",K.af(a).a0.r.NR(C.k,"Poppins")),s,s,new X.c_(new Y.dw(C.k,2,C.G),new K.bu(p,p,p,p)),C.ap,s,!1,s,s,s),s)],u.E)
 return new S.oL(new M.pR(new E.mZ(q,p,0,new P.R(1/0,56),s),new F.ob(s),s),t,r,!1,s)}}
 F.Jv.prototype={
-$0:function(){$.a11().aF("open",["https://github.com/frencojobs/covid19-stats"])},
+$0:function(){$.a11().aF("open",["https://github.com/frencojobs/covid19-statistics"])},
 $S:0}
 F.ob.prototype={
 aX:function(){return new F.B4(C.q)}}

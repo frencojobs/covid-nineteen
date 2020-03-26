@@ -4,7 +4,7 @@ const RESOURCES = {
   "/manifest.json": "f715baba44456a6aa04d804cdc1591fe",
   "/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
   "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-  "/main.dart.js": "d3981dd48c29a3c212eb4e2053613019",
+  "/main.dart.js": "6a633e27f8db580f6da6ddb707af3e9b",
   "/assets/AssetManifest.json": "2ea28769ebcb9e0add4a3c5f090dd8fe",
   "/assets/fonts/Poppins-Light.ttf": "3352653dedd571bbc490c8be132b38cd",
   "/assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",

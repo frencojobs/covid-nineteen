@@ -41,7 +41,7 @@ class Main extends StatelessWidget {
               padding: const EdgeInsets.all(8.0),
               child: RaisedButton(
                 onPressed: () {
-                  JS.context.callMethod('open', ['https://github.com/frencojobs/covid19-stats']);
+                  JS.context.callMethod('open', ['https://github.com/frencojobs/covid19-statistics']);
                 },
                 elevation: 0.0,
                 color: Colors.black,
