@@ -19,7 +19,7 @@ const RESOURCES = {
   "/assets/assets/confirmed_cases.png": "0c59da3ca56365598edc23d15b24f433",
   "/assets/assets/deceased_cases.png": "7d3fde9df38b7072ce23891834ffc791",
   "/assets/assets/serious_cases.png": "029130882208bd18dce941fb545a019c",
-  "/index.html": "ab22271148805dbf6c9df570cff28f2d"
+  "/index.html": "3f35b10f722ccb8c5165351df63b856d"
 };
 
 self.addEventListener("activate", function(event) {
